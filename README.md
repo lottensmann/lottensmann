@@ -27,8 +27,8 @@ I'm a doctoral researcher interested in bioinformatics, biostatistics, genomics,
 
 ## 📣 Let's Connect
 
-- LinkedIn: [linkedin.com/in/linda-ottensmann] (https://www.linkedin.com/in/linda-ottensmann/)
-- Email: [linda.ottensmann@helsinki.fi]  
-- ORCID: [0000-0002-0096-8308] (https://orcid.org/0000-0002-0096-8308)
+- LinkedIn: https://www.linkedin.com/in/linda-ottensmann/
+- Email: linda.ottensmann@helsinki.fi  
+- ORCID: https://orcid.org/0000-0002-0096-8308
 
 ---

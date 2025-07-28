@@ -12,7 +12,7 @@ I'm a doctoral researcher interested in bioinformatics, biostatistics, genomics,
 - Currently working on: Lipidomic profiles of smoking and alcohol consumption
 - Previously: GWAS of lipid species [Nature Communications](https://www.nature.com/articles/s41467-023-42532-8)  
   Examining links between lipid species and disease risk [EBioMedicine](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00115-X/fulltext)
-- Background: MSc Life Science Informatics (University of Helsinki, Finland),
+- Background: MSc Life Science Informatics (University of Helsinki, Finland),  
   BSc Bioinformatics and Genome research (University of Bielefeld, Germany)
 
 ---

@@ -1,4 +1,4 @@
-# Hi, I'm Linda 👋
+# Linda Ottensmann
 
 Bioinformatics Researcher | 🧬 Genomics | 💻 Biostatistics  
 Based in Helsinki, Finland
